@@ -1,0 +1,5 @@
+suno/backend/node_modules/
+suno/.gradle/
+suno/app/build/
+.gradle/
+build/
