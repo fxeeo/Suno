@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.suno"
+    namespace = "com.suno.music"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.suno"
+        applicationId = "com.suno.music"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

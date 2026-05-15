@@ -1,4 +1,4 @@
-package com.suno
+package com.suno.music
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
